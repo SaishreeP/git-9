@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 just hi
 from local repo
+=======
+
+>>>>>>> 78f0c6668968884ce169c5575b6a3aaaeb77516a
